@@ -1,7 +1,6 @@
 - Hi, I’m @florent-haxhiu
 - I’m interested in web development
-- I’m currently learning Software Engineering & Development.
-- I’m looking to collaborate on ...
+- I’m currently working as a DevOps Engineer for the Home Office under Sparta Global.
 - How to reach me: 
     - Florent Haxhiu - [LinkedIn](https://www.linkedin.com/in/florenthaxhiu/)
     - Florent#7873 - Discord
