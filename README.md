@@ -1,6 +1,6 @@
 ### Hi there, I'm Florent
 
-## I'm a Developer, Engineer, and 
+## I'm a Developer/Engineer
 
 - 📚 I'm currently working on sharpening my DevOps understanding.
 - 🏫 I'm currently learning anything DevOps related and C++.
@@ -17,8 +17,7 @@
 
 ### Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,sass,bootstrap)
-![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,kubernetes,figma,github,jenkins,linux,nginx,vscode)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,sass,bootstrap,vscode,aws,bash,docker,kubernetes,figma,github,jenkins,linux,nginx,git)
 
 ### GitHub Stats
 
