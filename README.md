@@ -5,21 +5,28 @@
 - 📚 I'm currently working on sharpening my DevOps understanding.
 - 🏫 I'm currently learning anything DevOps related and C++.
 - ⚡ I'm looking to collaborate with other developers.
-- 🎯 2022 Goal: Contribute more to Open Source Software.
-- 🎉 Fun Fact: I mess around with calisthenics and play games.
+- 🎯 2022 Goal: Contribute more to Open Source.
+- 🎉 Fun Fact: I mess around with calisthenics and play video games.
 
 ### Find me on
-
 [![website](./img/twitter-light.svg)](https://twitter.com/florenthaxhiu#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/florenthaxhiu#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/florenthaxhiu#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/florenthaxhiu#gh-dark-mode-only)
 
+### Languages and Tools
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,sass,bootstrap)
+![My Skills](https://skillicons.dev/icons?i=aws,bash,docker,kubernetes,figma,github,jenkins,linux,nginx,vscode)
+
 ### GitHub Stats
 
-<img align="left" alt="florent-haxhiu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=florent-haxhiu&show_icons=true&theme=" />
+![florent-haxhiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=florent-haxhiu&show_icons=true&theme=dark)
 
+<!-- ### Metrics
+
+![Metrics](https://metrics.lecoq.io/florent-haxhiu?template=classic&base.header=0&gists=1&lines=1) -->
 
 <!-- 
 - Hi, I’m @florent-haxhiu
@@ -28,7 +35,7 @@
     - Florent Haxhiu - [LinkedIn](https://www.linkedin.com/in/florenthaxhiu/)
     - Florent#7873 - Discord
     - Florent Haxhiu - [Twitter](https://twitter.com/florenthaxhiu) -->
-    
+
 <!---
 florent-haxhiu/florent-haxhiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
