@@ -1,4 +1,4 @@
-### Hi there, I'm Florent
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Edu+TAS+Beginner&size=32&lines=Welcome+to+my+Profile;)](https://git.io/typing-svg)
 
 ## I'm a Developer/Engineer
 
