@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Edu+TAS+Beginner&size=32&lines=Welcome+to+my+Profile;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Edu+TAS+Beginner&size=32&color=white&lines=Welcome+to+my+Profile;)](https://git.io/typing-svg)
 
 ## I'm a Developer/Engineer
 
@@ -17,11 +17,38 @@
 
 ### Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,sass,bootstrap,vscode,aws,bash,docker,kubernetes,figma,github,jenkins,linux,nginx,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,postgres,sass,bootstrap,vscode,aws,bash,docker,kubernetes,figma,github,jenkins,linux,nginx,git)
 
 ### GitHub Stats
 
 ![florent-haxhiu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=florent-haxhiu&show_icons=true&theme=dark)
+
+<!-- ### Most used languages
+
+<details>
+    <summary>Click me</summary>
+
+
+
+</details> -->
+
+<!-- <br/> -->
+
+### What I'm listening to right now
+
+<details>
+    <summary>Click me</summary>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ndyngu2b76zsxvzypy6255y3y&cover_image=true&theme=natemoo-re&bar_color_cover=true&bar_color=57b654)](https://spotify-github-profile.vercel.app/api/view?uid=ndyngu2b76zsxvzypy6255y3y&redirect=true)
+
+</details>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br/>
+
+![](https://visitor-badge.glitch.me/badge?page_id=florent-haxhiu.visitor-badge)
 
 <!-- ### Metrics
 
