@@ -44,6 +44,82 @@
 </details>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-25%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 421 Contributions in the Year 2022
+ > 
+> 📦 101.7 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 17 Public Repositories 
+ > 
+> 🔑 11 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    75 commits     █████░░░░░░░░░░░░░░░░░░░░   23.08% 
+🌆 Daytime    173 commits    █████████████░░░░░░░░░░░░   53.23% 
+🌃 Evening    75 commits     █████░░░░░░░░░░░░░░░░░░░░   23.08% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       81 commits     ██████░░░░░░░░░░░░░░░░░░░   24.92% 
+Tuesday      33 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.15% 
+Wednesday    59 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.15% 
+Thursday     54 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.62% 
+Friday       58 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.85% 
+Saturday     15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.62% 
+Sunday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/London
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               7 repos             █████████░░░░░░░░░░░░░░░░   38.89% 
+Python                   6 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+HCL                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/florent-haxhiu/florent-haxhiu/main/charts/bar_graph.png) 
+
+
+ Last Updated on 17/07/2022 12:35:09 UTC
 <!--END_SECTION:waka-->
 
 <br/>
