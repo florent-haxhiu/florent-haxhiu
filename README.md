@@ -2,7 +2,7 @@
 
 ## I'm a Developer/Engineer
 
-- 📚 I'm currently working on sharpening my DevOps understanding.
+- 📚 I'm currently working on sharpening my Python Testing.
 - 🏫 I'm currently learning anything DevOps related and C++.
 - ⚡ I'm looking to collaborate with other developers.
 - 🎯 2022 Goal: Contribute more to Open Source.
