@@ -3,7 +3,7 @@
 ## I'm a Developer/Engineer
 
 - 📚 I'm currently working on sharpening my data structures and algorithms.
-- 🏫 I'm currently learning anything DevOps related and C++.
+- 🏫 I'm currently learning Advanced Python and TypeScript.
 - ⚡ I'm looking to collaborate with other developers.
 - 🎯 2022 Goal: Contribute more to Open Source.
 - 🎉 Fun Fact: I mess around with calisthenics and play video games.
@@ -17,7 +17,7 @@
 
 ### Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,django,postgres,sass,bootstrap,vscode,aws,bash,docker,kubernetes,figma,github,jenkins,linux,nginx,git)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python,django,postgres,sass,bootstrap,vscode,aws,bash,docker,kubernetes,figma,github,jenkins,linux,nginx,git,md&perline=15)
 
 ### GitHub Stats
 
