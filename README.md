@@ -126,6 +126,9 @@ Mac                      1 hr 49 mins        █████░░░░░░�
     - Florent#7873 - Discord
     - Florent Haxhiu - [Twitter](https://twitter.com/florenthaxhiu) -->
 
+# Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=florent-haxhiu&theme=gruvbox&row=1)](https://github.com/florent-haxhiu/github-profile-trophy)
+
 <!---
 florent-haxhiu/florent-haxhiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
