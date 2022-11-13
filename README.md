@@ -112,6 +112,9 @@ Mac                      1 hr 49 mins        █████░░░░░░�
 
 <br/>
 
+## Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=florent-haxhiu&theme=gruvbox&row=1)](https://github.com/florent-haxhiu/github-profile-trophy)
+
 ![](https://visitor-badge.glitch.me/badge?page_id=florent-haxhiu.visitor-badge)
 
 <!-- ### Metrics
@@ -125,9 +128,6 @@ Mac                      1 hr 49 mins        █████░░░░░░�
     - Florent Haxhiu - [LinkedIn](https://www.linkedin.com/in/florenthaxhiu/)
     - Florent#7873 - Discord
     - Florent Haxhiu - [Twitter](https://twitter.com/florenthaxhiu) -->
-
-# Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=florent-haxhiu&theme=gruvbox&row=1)](https://github.com/florent-haxhiu/github-profile-trophy)
 
 <!---
 florent-haxhiu/florent-haxhiu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
