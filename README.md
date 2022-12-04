@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Edu+TAS+Beginner&size=32&color=white&lines=Welcome+to+my+Profile;)](https://git.io/typing-svg)
-
 ## I'm a Software Developer/Engineer
 
 - 📚 I'm currently working on sharpening my data structures and algorithms.
