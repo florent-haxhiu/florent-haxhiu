@@ -1,7 +1,6 @@
 ## I'm a Software Developer/Engineer
 
-- 📚 I'm currently working on sharpening my data structures and algorithms.
-- 🏫 I'm currently learning Advanced Python and TypeScript.
+- I'm currently working at Sky.
 
 ### Find me on
 [![website](./img/twitter-light.svg)](https://twitter.com/florenthaxhiu#gh-light-mode-only)
