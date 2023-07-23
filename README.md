@@ -11,7 +11,7 @@
 
 ### Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python,django,postgres,aws,bash,docker,github,jenkins,linux,nginx,git,md,vim,neovim,discord&perline=15)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,python,django,postgres,aws,bash,docker,github,linux,nginx,git,md,vim,neovim,discord&perline=11)
 
 ### GitHub Stats
 
