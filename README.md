@@ -1,7 +1,5 @@
 ## I'm a Software Developer/Engineer
 
-- I'm currently working at Sky.
-
 ### Find me on
 [![website](./img/twitter-light.svg)](https://twitter.com/florenthaxhiu#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/florenthaxhiu#gh-dark-mode-only)
