@@ -9,7 +9,7 @@
 
 ### Languages and Tools
 
-![My Skills](https://skillicons.dev/icons?i=aws,html,css,js,ts,mongodb,python,fastapi,postgres,bash,docker,github,linux,git,md,vim,neovim,discord&perline=11)
+![My Skills](https://skillicons.dev/icons?i=aws,html,css,js,ts,mongodb,python,fastapi,postgres,bash,docker,github,linux,git,md,vim,neovim,discord&perline=9)
 
 ### GitHub Stats
 
